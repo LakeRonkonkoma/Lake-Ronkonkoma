@@ -1,0 +1,1 @@
+var json_KHPoint_7 = {"type":"FeatureCollection","name":"KHPoint_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null},"geometry":{"type":"Point","coordinates":[-73.107786584076123,40.831165024286527]}}]}
